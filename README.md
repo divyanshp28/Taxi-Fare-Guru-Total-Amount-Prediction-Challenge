@@ -1,5 +1,4 @@
 Taxi Fare Guru: Total Amount Prediction Challenge
-#################################################
 
 Predictive models to estimate the total amount paid by travelers for taxi rides.
 
